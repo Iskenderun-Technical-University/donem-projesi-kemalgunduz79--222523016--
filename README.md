@@ -3,3 +3,5 @@ Projenin adı : Geri Dön
 Proje, kağıt atıkları geri dönüşüme kazandıran firmanın müşterilerine puan karşılığı para ödemesi yapmasını sağlayacak yazılımı hazırlamak için düşünüldü.
 Projenin amacı : Geri dönüşüm için kağıt toplayan bir firmanın müşteri bilgisini,kazanılacak para miktarı,adres bilgisini saklamak
 Veritabanında müşterilerin bilgi tablosunda Ad soyad, adres, Ödeme tablosunda teslim alınan kağıt (kg), Kazanılan puan, yapılan ödeme, bakiye gibi bilgileri yer alacaktır.
+
+17.05.2023 dosyaları oluşturmaya başladım.
