@@ -5,3 +5,4 @@ Projenin amacı : Geri dönüşüm için kağıt toplayan bir firmanın müşter
 Veritabanında müşterilerin bilgi tablosunda Ad soyad, adres, Ödeme tablosunda teslim alınan kağıt (kg), Kazanılan puan, yapılan ödeme, bakiye gibi bilgileri yer alacaktır.
 
 17.05.2023 dosyaları oluşturmaya başladım.
+22.05.2023 form1.cs de güncelleme yaptım ama form ile ilgili sıkıntı var. onu düzeltmeye çalışıyorum.
