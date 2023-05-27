@@ -6,3 +6,4 @@ Veritabanında müşterilerin bilgi tablosunda Ad soyad, adres, Ödeme tablosund
 
 17.05.2023 dosyaları oluşturmaya başladım.
 22.05.2023 form1.cs de güncelleme yaptım ama form ile ilgili sıkıntı var. onu düzeltmeye çalışıyorum.
+27.05.2023 dosyalarım bozulduğu için sıfırdan bir proje açıp tekrar yüklüyorum.
